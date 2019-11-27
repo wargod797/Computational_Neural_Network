@@ -1,2 +1,2 @@
-# Computational_Neural_Network
+# Convolution_Neural_Network
 Predicting the image whether the dog or cat
